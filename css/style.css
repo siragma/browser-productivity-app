@@ -170,4 +170,14 @@ button {
         font-size: 30px;
         font-weight: 600;
     }
+    #quote span {
+        display: flex;
+        justify-content: center;
+        padding: 5px;
+        font-size: 15px;
+        font-style: italic;
+    }
+    #todo-list li span {
+        font-size: 15px;
+    }
 }
